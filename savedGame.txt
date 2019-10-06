@@ -1,0 +1,18 @@
+0
+4
+Den
+The floor is strewn with toys.
+0
+-1-1-1311
+Kitchen
+A plate of apples sits on the counter. 
+0
+-1-1220-1
+Bedroom
+The sunlight streams through the window. 
+0
+-1133-1-1
+Patio
+A dog runs around the backyard. 
+0
+002-1-1-1
